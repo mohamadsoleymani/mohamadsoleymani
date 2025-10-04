@@ -39,7 +39,7 @@
 
 ### 🧰 Backend Skills
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="50" alt="Laravel" />
+  <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" height="50" alt="Laravel" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="MySQL" />
 </div>
