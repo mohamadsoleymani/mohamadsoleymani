@@ -21,22 +21,29 @@
 
 ## 🛠️ Tech Stack
 
-### **Frontend**
+### 🧠 Frontend Skills
 <div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" alt="React" />
-  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" alt="TypeScript" />
-  <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="50" alt="Redux Toolkit" />
-  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss-icon.svg" height="50" alt="TailwindCSS" />
-  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" alt="Bootstrap" />
-  <img src="https://profilinator.rishav.dev/skills-assets/antdesign.svg" height="50" alt="Ant Design" />
-  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg" height="50" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="50" alt="TypeScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="50" alt="Redux Toolkit" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="50" alt="TailwindCSS" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="50" alt="Bootstrap" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="50" alt="JavaScript" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="50" alt="HTML5" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="50" alt="CSS3" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="50" alt="Git" />
+  <img src="https://static-00.iconduck.com/assets.00/ant-design-icon-512x512-1dspz9wj.png" height="50" alt="Ant Design" />
 </div>
 
-### **Backend**
+---
+
+### 🧰 Backend Skills
 <div align="center">
-  <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" height="50" alt="Laravel" />
-  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" alt="MySQL" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/laravel/laravel-plain-wordmark.svg" height="50" alt="Laravel" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" height="50" alt="PHP" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" height="50" alt="MySQL" />
 </div>
+
 
 ---
 
