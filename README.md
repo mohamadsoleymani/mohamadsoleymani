@@ -1,96 +1,81 @@
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+  <img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
 </div>  
-  
 
-### <div align="center">I'm Mohammad, a frontend developer 👨‍💻</div>  
-  
-  
+<h2 align="center">Hey there 👋, I'm Mohammad — a Frontend Developer</h2>
 
-- 🌱 I’m currently learning Hyperledger and Kubernetes  
-    
+<p align="center">
+  I’m a passionate Frontend Developer who loves building modern, fast, and user-friendly web applications.  
+  I mainly work with <strong>React.js</strong> & <strong>TypeScript</strong>, but I’m also comfortable with <strong>Laravel</strong> for backend integration.
+</p>
 
-- ⚡ Fun fact: I use tabs over spaces  
-  
+---
 
-<br/>  
+### 🚀 About Me  
+- 🌱 Currently learning **Hyperledger** & **Kubernetes**  
+- 💡 Focused on writing clean, maintainable, and scalable frontend code  
+- ⚡ Fun fact: I prefer **tabs over spaces** 😄  
+- 🎯 Goal: Build products that combine performance, aesthetics, and simplicity  
 
+---
 
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
+## 🛠️ Tech Stack
 
-
-
-### Frontend  
-<div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+### **Frontend**
+<div align="center">
+  <img src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" height="50" alt="React" />
+  <img src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" height="50" alt="TypeScript" />
+  <img src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" height="50" alt="Redux Toolkit" />
+  <img src="https://profilinator.rishav.dev/skills-assets/tailwindcss-icon.svg" height="50" alt="TailwindCSS" />
+  <img src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" height="50" alt="Bootstrap" />
+  <img src="https://profilinator.rishav.dev/skills-assets/antdesign.svg" height="50" alt="Ant Design" />
+  <img src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" height="50" alt="JavaScript" />
 </div>
 
-</td></tr></table>  
-
-<br/>  
-
-
-## Connect with me  
+### **Backend**
 <div align="center">
-<a href="https://github.com/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/rishavanand" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://www.facebook.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/facebook-%232E87FB.svg?&style=for-the-badge&logo=facebook&logoColor=white alt=facebook style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/iamrishavanand" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-  
+  <img src="https://profilinator.rishav.dev/skills-assets/laravel-plain-wordmark.svg" height="50" alt="Laravel" />
+  <img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" height="50" alt="MySQL" />
+</div>
 
-<br/>  
+---
 
+## 🌐 Connect With Me
+<div align="center">
+  <a href="https://github.com/YourGitHubUsername" target="_blank"><img src="https://img.shields.io/badge/GitHub-24292e?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="https://linkedin.com/in/YourLinkedIn" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-1E77B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://twitter.com/YourTwitter" target="_blank"><img src="https://img.shields.io/badge/Twitter-00acee?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  <a href="mailto:your.email@example.com" target="_blank"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+</div>
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=rishavanand&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
+---
 
-<br/>  
+## 📊 GitHub Stats
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=YourGitHubUsername&show_icons=true&count_private=true&theme=react&hide_border=true" height="150" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YourGitHubUsername&theme=react&hide_border=true" height="150" />
+</div>
 
+---
 
-## Recent Blog Posts  
-<!-- BLOG-POST-LIST:START -->  
-If things goes well, this section should automatically be replaced by a list of your blog posts after you commit your readme file. 
-<!-- BLOG-POST-LIST:END -->  
+## 🎧 Now Playing
+<div align="center">
+  <img src="https://spotify-github-profile.vercel.app/api/view?uid=spotify&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=true" />
+</div>
 
-<br/>  
-
-<div align="center"><img src="https://rishavanand.github.io/static/images/spotify-readme-example.svg" /></div>  
-
-<br/>  
+---
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=rishavanand&&style=flat-square" align="center" />
-</div>  
-  
+  <img src="https://komarev.com/ghpvc/?username=YourGitHubUsername&style=flat-square" />
+</div>
 
-<br/>  
+---
 
 <div align="center">
-            <a href="https://www.buymeacoffee.com/rishavanand" target="_blank" style="display: inline-block;">
-                <img
-                    src="https://img.shields.io/badge/Donate-Buy%20Me%20A%20Coffee-orange.svg?style=flat-square&logo=buymeacoffee" 
-                    align="center"
-                />
-            </a></div>
-<br />
+  <a href="https://www.buymeacoffee.com/YourUsername" target="_blank">
+    <img src="https://img.shields.io/badge/Support-Buy%20Me%20a%20Coffee-orange?style=flat-square&logo=buymeacoffee" />
+  </a>
+</div>
 
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
+---
+<div align="center">✨ Made with ❤️ by Mohammad ✨</div>
